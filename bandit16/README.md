@@ -17,3 +17,7 @@
 
 `/tmp/scanports.sh PasswordBandit16`
 
+6. Elimine el script "scanports.sh" usando el siguiente comando
+
+`rm -f /tmp/scanports.sh`
+

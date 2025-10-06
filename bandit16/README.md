@@ -17,7 +17,9 @@
 
 `/tmp/scanports.sh PasswordBandit16`
 
-6. Elimine el script "scanports.sh" usando el siguiente comando
+6. Al ejecutarse el script se establecerá conexión a la máquina como usuario bandit17. Obtenga la contraseña de bandit17 leyendo el archivo `/etc/bandit_pass/bandit17`.
+
+7. Elimine el script "scanports.sh" usando el siguiente comando
 
 `rm -f /tmp/scanports.sh`
 

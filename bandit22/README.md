@@ -19,3 +19,9 @@
 8. Lea la salida del script. El nombre del archivo temporal se mostrará por consola.
 
 9. La contraseña de bandit23 está almacenada en el archivo temporal.
+
+10. Pero ..., la contraseña no funciona.
+
+11. Tal como se muestra en el archivo que está ejecutando cron, encripte la frase "I am user bandit23".
+
+12. Utilice el resultado del encriptado como nombre de archivo y lea su contenido en /tmp/
